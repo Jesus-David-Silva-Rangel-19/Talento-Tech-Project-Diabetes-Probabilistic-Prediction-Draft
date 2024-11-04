@@ -1,4 +1,4 @@
-# Talento-Tech-Project-Diabetes-Probabilistic-Prediction-Draft 🩺📊
+# Proyecto - Grupo #7 - Talento Tech 🩺📊
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Status](https://img.shields.io/badge/status-En%20desarrollo-yellow.svg)
