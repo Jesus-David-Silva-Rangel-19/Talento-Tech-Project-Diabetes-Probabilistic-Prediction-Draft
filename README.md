@@ -1,7 +1,7 @@
 # Proyecto - Grupo #7 - Talento Tech 🩺📊
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Status](https://img.shields.io/badge/status-En%20desarrollo-yellow.svg)
+![Licenncia](https://img.shields.io/badge/license-MIT-blue.svg)
+![Estado](https://img.shields.io/badge/status-En%20desarrollo-yellow.svg)
 
 ## Descripción 📋
 Este proyecto tiene como objetivo desarrollar un modelo probabilístico para predecir la probabilidad de que una persona desarrolle diabetes tipo 2. A través de algoritmos de Machine Learning, buscamos construir un modelo que permita la toma de decisiones preventivas y ofrezca una herramienta de apoyo en el diagnóstico médico.
